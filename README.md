@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm An energetic and passionate individual with a strong interest in technology and programming.<br>Particularly in Android and web development.<br>🔭 I’m currently working on a personal website<br>👯 I’m looking to collaborate on any project using JavaScript
+I'm An energetic and passionate individual with a strong interest in technology and programming.<br>Particularly in Android and web development.<br>🔭 I’m currently working on a personal website and a shopping web app using nest.js<br>👯 I’m looking to collaborate on any project using JavaScript
 
 
 ## 🌐 Socials:
